@@ -1,0 +1,9 @@
+--- SETUP-Nikita.tp2	Tue Nov 22 03:50:23 2011
++++ C:\BWP Patchstudio\patched files\SETUP-Nikita.tp2	Tue Nov 22 21:35:38 2011
+@@ -310,5 +310,5 @@
+ 
+ 
+ 
+-AT_INTERACTIVE_EXIT ~VIEW NikitaRedux\readme_nikita.html~
++// AT_INTERACTIVE_EXIT ~VIEW NikitaRedux\readme_nikita.html~
+ 

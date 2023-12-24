@@ -1,0 +1,8 @@
+--- GRoA\GRoAtisunpack.bat	Sun Jun 29 05:24:10 2003
++++ C:\BWP Patchstudio\patched files\GRoA\GRoAtisunpack.bat	Thu Aug 20 05:55:20 2009
+@@ -7,5 +7,4 @@
+ del SJ*.ogg
+ del oggdec.exe
+ cd ..
+-notepad GRoA\GRoA-Readme.txt
+ 

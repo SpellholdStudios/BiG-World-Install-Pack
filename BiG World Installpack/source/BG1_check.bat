@@ -1,0 +1,184 @@
+SETLOCAL
+cd /d %DPATH%
+
+
+for /f "delims=" %%a in ('type BWP_BG1_input.txt') do @set BG1=%%a
+SET BGD="%BG1%"\data\
+SET BGM="%BG1%"\movies\
+SET BGO="%BG1%"\Override\
+
+SET X=0
+
+FOR %%i IN (
+	%BGD%AREA000A.bif
+	%BGD%AREA000B.bif
+	%BGD%AREA000C.bif
+	%BGD%AREA000D.bif
+	%BGD%AREA000E.bif
+	%BGD%AREA000F.bif
+	%BGD%AREA000G.bif
+	%BGD%AREA000H.bif
+	%BGD%AREA010A.bif
+	%BGD%AREA010B.bif
+	%BGD%AREA020A.bif
+	%BGD%AREA020B.bif
+	%BGD%AREA030A.bif
+	%BGD%AREA030B.bif
+	%BGD%AREA040X.bif
+	%BGD%AREA050D.bif
+	%BGD%AREA060A.bif
+	%BGD%AREA070A.bif
+	%BGD%AREA080A.bif
+	%BGD%AREA080B.bif
+	%BGD%AREA090X.bif
+	%BGD%AREA0100.bif
+	%BGD%AREA110A.bif
+	%BGD%AREA110B.bif
+	%BGD%AREA110C.bif
+	%BGD%AREA120A.bif
+	%BGD%AREA120B.bif
+	%BGD%AREA130A.bif
+	%BGD%AREA140A.bif
+	%BGD%AREA140B.bif
+	%BGD%AREA160X.bif
+	%BGD%AREA180A.bif
+	%BGD%AREA180B.bif
+	%BGD%AREA180C.bif
+	%BGD%AREA180D.bif
+	%BGD%AREA180E.bif
+	%BGD%AREA190X.bif
+	%BGD%AREA0200.bif
+	%BGD%AREA210X.bif
+	%BGD%AREA220X.bif
+	%BGD%AREA230A.bif
+	%BGD%AREA230B.bif
+	%BGD%AREA260A.bif
+	%BGD%AREA260B.bif
+	%BGD%AREA260C.bif
+	%BGD%AREA0300.bif
+	%BGD%AREA320X.bif
+	%BGD%AREA330A.bif
+	%BGD%AREA330B.bif
+	%BGD%AREA330C.bif
+	%BGD%AREA330D.bif
+	%BGD%AREA340X.bif
+	%BGD%AREA360X.bif
+	%BGD%AREA380X.bif
+	%BGD%AREA390X.bif
+	%BGD%AREA0400.bif
+	%BGD%AREA400X.bif
+	%BGD%AREA410X.bif
+	%BGD%AREA420X.bif
+	%BGD%AREA440X.bif
+	%BGD%AREA450X.bif
+	%BGD%AREA470X.bif
+	%BGD%AREA480X.bif
+	%BGD%AREA490X.bif
+	%BGD%AREA500X.bif
+	%BGD%AREA510X.bif
+	%BGD%AREA520X.bif
+	%BGD%AREA540A.bif
+	%BGD%AREA540B.bif
+	%BGD%AREA540C.bif
+	%BGD%AREA540D.bif
+	%BGD%AREA550X.bif
+	%BGD%AREA0600.bif
+	%BGD%AREA0700.bif
+	%BGD%AREA0800.bif
+	%BGD%AREA0900.bif
+	%BGD%AREA1100.bif
+	%BGD%AREA1200.bif
+	%BGD%AREA1300.bif
+	%BGD%AREA1400.bif
+	%BGD%AREA1600.bif
+	%BGD%AREA1700.bif
+	%BGD%AREA1800.bif
+	%BGD%AREA1900.bif
+	%BGD%AREA2100.bif
+	%BGD%AREA2200.bif
+	%BGD%AREA2300.bif
+	%BGD%AREA2400.bif
+	%BGD%AREA2600.bif
+	%BGD%AREA2700.bif
+	%BGD%AREA2800.bif
+	%BGD%AREA2900.bif
+	%BGD%AREA3000.bif
+	%BGD%AREA3100.bif
+	%BGD%AREA3200.bif
+	%BGD%AREA3300.bif
+	%BGD%AREA3400.bif
+	%BGD%AREA3500.bif
+	%BGD%AREA3600.bif
+	%BGD%AREA3700.bif
+	%BGD%AREA3800.bif
+	%BGD%AREA3900.bif
+	%BGD%AREA4000.bif
+	%BGD%AREA4100.bif
+	%BGD%AREA4200.bif
+	%BGD%AREA4300.bif
+	%BGD%AREA4400.bif
+	%BGD%AREA4500.bif
+	%BGD%AREA4600.bif
+	%BGD%AREA4700.bif
+	%BGD%AREA4800.bif
+	%BGD%AREA4900.bif
+	%BGD%AREA5000.bif
+	%BGD%AREA5100.bif
+	%BGD%AREA5200.bif
+	%BGD%AREA5300.bif
+	%BGD%AREA5400.bif
+	%BGD%AREA5500.bif
+	%BGD%Areas.bif
+	%BGD%ARMisc.bif
+	%BGD%CHAAnim.bif
+	%BGD%CHASound.bif
+	%BGD%CREAnim.bif
+	%BGD%Creature.bif
+	%BGD%CRESound.bif
+	%BGD%Default.bif
+	%BGD%Dialog.bif
+	%BGD%Effects.bif
+	%BGD%Gui.bif
+	%BGD%Items.bif
+	%BGD%MPCREANM.bif
+	%BGD%MPGUI.bif
+	%BGD%MPSounds.bif
+	%BGD%NPCSound.bif
+	%BGD%OBJAnim.bif
+	%BGD%RndEncnt.bif
+	%BGD%scripts.bif
+	%BGD%SFXSound.bif
+	%BGD%Spells.bif
+
+	%BGD%AREA050A.bif
+	%BGD%AREA050B.bif
+	%BGD%AREA050C.bif
+	%BGD%AREA100A.bif
+	%BGD%AREA150A.bif
+	%BGD%AREA200A.bif
+	%BGD%AREA200B.bif
+	%BGD%AREA0500.bif
+	%BGD%AREA1000.bif
+	%BGD%AREA1500.bif
+	%BGD%AREA2000.bif
+	%BGD%ExArMaps.bif
+	%BGD%ExPAreas.bif
+
+	%BGM%MOVIECD1.bif
+	%BGM%MOVIECD2.bif
+	%BGM%MOVIECD3.bif
+	%BGM%MOVIECD4.bif
+	%BGM%MOVIECD5.bif
+	%BGM%MOVIECD6.bif
+
+	"%BG1%"\chitin.key
+	"%BG1%"\BGMain2.exe
+
+) DO (
+	%IFN% %%i (
+		echo %%i
+		SET X=1
+	)	
+)
+
+exit /b %x%

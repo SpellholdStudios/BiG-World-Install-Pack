@@ -1,0 +1,9 @@
+--- End_biff\Install-End_biff.bat	Sun Jun 01 11:55:49 2008
++++ C:\BWP Patchstudio\patched files\End_biff\Install-End_biff.bat	Mon Oct 13 08:34:13 2008
+@@ -115,4 +115,5 @@
+ @echo.
+ @echo END Override Biffing is complete.
+ @echo.
+-pause
++
++

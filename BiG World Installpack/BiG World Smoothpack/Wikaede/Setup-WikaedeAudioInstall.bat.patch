@@ -1,0 +1,8 @@
+--- Wikaede\Setup-WikaedeAudioInstall.bat	Mon Jun 13 14:16:56 2005
++++ C:\BWP Patchstudio\patched files\Wikaede\Setup-WikaedeAudioInstall.bat	Sat Jun 19 07:18:06 2010
+@@ -4,4 +4,4 @@
+ del WIKA*.ogg
+ del oggdec.exe
+ cd..
+-explorer Wikaede\Wikaede-Readme.txt
++

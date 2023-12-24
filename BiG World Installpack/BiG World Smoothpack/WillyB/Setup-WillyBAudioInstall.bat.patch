@@ -1,0 +1,9 @@
+--- WillyB\Setup-WillyBAudioInstall.bat	Thu Oct 21 23:28:04 2004
++++ C:\BWP Patchstudio\patched files\WillyB\Setup-WillyBAudioInstall.bat	Sun Oct 12 11:06:45 2008
+@@ -4,4 +4,4 @@
+ del WILLY*.ogg
+ del oggdec.exe
+ cd ..
+-explorer WillyB\WillyB--ReadMe.txt
+\ No newline at end of file
++

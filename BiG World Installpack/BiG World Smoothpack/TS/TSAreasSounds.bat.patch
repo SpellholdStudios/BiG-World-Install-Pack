@@ -1,0 +1,8 @@
+--- TSAreasSounds.bat	Sat Jun 23 05:25:59 2012
++++ C:\BWP Patchstudio\patched files\TSAreasSounds.bat	Sat May 28 09:18:11 2016
+@@ -75,4 +75,3 @@
+ del oggdec.exe
+ del tisunpack.exe
+ cd..
+-notepad TS-ReadMe.txt
+\ No newline at end of file

@@ -1,0 +1,12 @@
+--- CtB\CtbFinishInstall.bat	Sat May 26 14:31:25 2007
++++ C:\BWP Patchstudio\patched files\CtB\CtbFinishInstall.bat	Sun Oct 12 10:58:14 2008
+@@ -170,9 +170,6 @@
+ @echo.
+ @echo Installation of the core CtB package is complete.
+ @echo.
+-pause
+ 
+-Setup-CtB-Chores.exe
+ 
+-notepad CtB\text\CtB-Version.txt
+ 

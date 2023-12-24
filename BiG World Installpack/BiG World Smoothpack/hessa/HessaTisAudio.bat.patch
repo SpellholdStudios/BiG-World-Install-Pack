@@ -1,0 +1,9 @@
+--- hessa\HessaTisAudio.bat	Fri Feb 20 10:05:36 2004
++++ C:\BWP Patchstudio\patched files\hessa\HessaTisAudio.bat	Sun Oct 12 11:00:22 2008
+@@ -7,4 +7,4 @@
+ del suhess*.ogg
+ del oggdec.exe
+ cd ..
+-notepad hessa\hessaReadme.txt
+\ No newline at end of file
++

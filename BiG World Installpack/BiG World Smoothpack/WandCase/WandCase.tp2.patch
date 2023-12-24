@@ -1,0 +1,12 @@
+--- WandCase\WandCase.tp2	Sun Oct 25 15:34:32 2015
++++ C:\BWP Patchstudio\patched files\WandCase\WandCase.tp2	Fri Nov 25 09:44:42 2016
+@@ -44,9 +44,3 @@
+ 		ADD_STORE_ITEM ~WANDCASE~ #0 #0 #0 ~IDENTIFIED~ #1
+ END
+ 
+-// Display Readme
+-ACTION_IF FILE_EXISTS ~WandCase/Lang/%LANGUAGE%/readme.txt~ THEN BEGIN
+-	AT_INTERACTIVE_EXIT ~VIEW WandCase/Lang/%LANGUAGE%/readme.txt~
+-END ELSE BEGIN
+-	AT_INTERACTIVE_EXIT ~VIEW WandCase/Lang/English/readme.txt~
+-END

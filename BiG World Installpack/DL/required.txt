@@ -1,0 +1,89 @@
+Baldurs Gate Trilogy most recent version
+https://github.com/SpellholdStudios/BGT-WeiDU/archive/master.zip
+
+Baldurs Gate Trilogy v1.21
+https://github.com/SpellholdStudios/BGT-WeiDU/releases/download/v1.21/bgt-v1.21.zip
+
+BG2 Fixpack
+https://www.gibberlings3.net/files/file/696-bg2-fixpack/?do=download&r=4530&confirm=1%20-O%20bg2fixpack.exe
+
+BP-BGT-Worldmap
+http://www.shsforums.net/files/download/308-bp-bgt-worldmap/
+
+BP-BGT Worldmap - French add-on 
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=917
+
+BP-BGT Worldmap - German add-on 
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=918
+
+BP-BGT Worldmap - Italian add-on 
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=919
+
+BP-BGT Worldmap - Polish add-on
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=920
+
+BP-BGT Worldmap - Russian add-on 
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=977
+
+BP-BGT Worldmap - Spanish add-on 
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=921
+
+Generalized Biffing
+http://www.shsforums.net/files/download/741-generalized-biffing/
+
+Jondalar Fix for BGT
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=934
+
+Platform Conversion Utility
+http://www.shsforums.net/files/download/507-utility-platform-conversion-utility-rc2/
+
+Restored Textscreen Music Core
+http://www.shsforums.net/files/download/74-restored-textscreen-music-core-installation-package-9/
+
+Restored Textscreen Music - Castilian Language Pack
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=496
+
+Restored Textscreen Music - English Language Pack 
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=494
+
+Restored Textscreen Music - French Language Pack 
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=497
+
+Restored Textscreen Music - German Language Pack 
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=495
+
+Restored Textscreen Music - Polish Language Pack
+http://www.shsforums.net/files/download/1054-restored-textscreen-music-polish-language-pack/
+
+ToBEx (Throne of Bhaal Extender)
+https://github.com/BGforgeNet/TobEx/releases/download/v28/tobex_v28.zip
+
+
+Textpatches
+
+French: BG1 Patch correctif
+http://www.baldursgateworld.fr/filesmods/ModsBG/correcfrBG1v1.1.zip
+
+French: BG2 Patch correctif
+http://www.baldursgateworld.fr/filesmods/ModsBG/correcfrbg2v1.4.zip
+
+German: MKs BG1 Textpatch Revised
+http://baldurs-gate.de/download_latest_version.php?id=15
+
+German: MKs BG2 Textpatch Revised
+http://baldurs-gate.de/download_latest_version.php?id=16
+
+German: BGT NPC Sound
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=561
+
+Russian: BG1 Translation
+https://arcanecoast.ru/download/bg1textpack.rar
+
+Spanish: Traducción mejorada BG2
+http://www.shsforums.net/files/download/775-traduccion-mejorada-bg2-y-tob/
+
+Spanish: Traducción mejorada BG1 y TOTSC
+http://www.shsforums.net/files/download/774-traduccion-mejorada-bg1-y-totsc/
+
+Spanish: BG + TOTSC - Sonidos en castellano
+http://www.shsforums.net/files/download/787-bg-totsc-sonidos-en-castellano/

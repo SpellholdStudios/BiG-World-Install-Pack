@@ -1,0 +1,9 @@
+--- Severian\Sounds\Audioin.bat	Tue Dec 22 16:51:44 2009
++++ C:\BWP Patchstudio\patched files\Severian\Sounds\Audioin.bat	Thu Jun 08 21:58:07 2023
+@@ -1,5 +1,5 @@
+ @echo off
+-pause
++
+ cd override
+ oggdec #SAct1.ogg
+ oggdec #SAct2.ogg

@@ -1,0 +1,38 @@
+BG1 NPCs at Beginning
+http://www.anomaly-studios.fr/mods/bg1npcbeg/bg1npcbeg-v3.0.zip
+
+BG2 Improved GUI
+http://www.shsforums.net/files/download/1265-bg2-improved-gui/
+
+BGT NSC Portraits
+https://github.com/gboeck/NSC-Portraits/archive/refs/heads/master.zip
+
+BP Series
+http://www.shsforums.net/files/download/1025-bp-series-party-ai-for-bg/
+
+Enkida's Portrait Pack 
+http://www.shsforums.net/files/download/993-enkidas-portrait-pack/
+
+gMinion
+https://www.gibberlings3.net/files/file/717-cirerreks-ai-scripts-gminion/?do=download&r=3939
+
+Infinity Sounds
+http://www.shsforums.net/files/download/1081-infinity-sounds/
+
+LadeJarl's Tutu GUI
+http://mods.pocketplane.net/bg1tutu/TutuGUIv18.zip
+
+Macholy’s Teammates Fight Scripts
+http://www.shsforums.net/index.php?app=downloads&module=display&section=download&do=confirm_download&id=742
+
+NPCs Enhanced for Everyone
+https://github.com/UnearthedArcana/NPC_EE/archive/refs/heads/master.zip
+
+Sarevok Wiederherstellung
+http://www.baldursgate-refugium.de/download.php?dat=Sarevok-Wiederherstellung
+
+Sword Coast Map Labels
+http://downloads.spellholdstudios.net/mapnames-v2.zip
+
+W_GUI
+http://www.shsforums.net/files/download/990-w-gui/

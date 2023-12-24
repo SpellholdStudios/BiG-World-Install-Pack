@@ -1,0 +1,9 @@
+--- Mid_biff\Install-Mid_biff.bat	Sun Jun 01 11:52:44 2008
++++ C:\BWP Patchstudio\patched files\Mid_biff\Install-Mid_biff.bat	Mon Oct 13 08:36:35 2008
+@@ -115,4 +115,5 @@
+ @echo.
+ @echo MID Override Biffing is complete.
+ @echo.
+-pause
++
++

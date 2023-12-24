@@ -1,0 +1,9 @@
+--- TDD\TDD-TISBIFF.bat	Sun Mar 07 23:05:44 2010
++++ C:\BWP Patchstudio\patched files\TDD\TDD-TISBIFF.bat	Sat Mar 20 06:55:05 2010
+@@ -129,6 +129,4 @@
+ @echo.
+ @echo Installation complete.
+ @echo.
+-pause
+ 
+-notepad TDD\README.txt

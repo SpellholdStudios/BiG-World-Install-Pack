@@ -1,0 +1,9 @@
+--- Setup-LOHMod.tp2	Sun Nov 30 09:35:00 2008
++++ C:\BWP Patchstudio\patched files\Setup-LOHMod.tp2	Sun Jan 16 19:56:52 2011
+@@ -554,4 +554,4 @@
+   SAY DESC @510
+ 
+ 
+-AT_INTERACTIVE_EXIT ~LOHMod/readme.txt~
+\ No newline at end of file
++// AT_INTERACTIVE_EXIT ~LOHMod/readme.txt~

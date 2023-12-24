@@ -1,0 +1,11 @@
+--- SOS\SOS-TISOGGBIFF.bat	Sat May 26 14:32:09 2007
++++ C:\BWP Patchstudio\patched files\SOS\SOS-TISOGGBIFF.bat	Sun Oct 12 11:04:58 2008
+@@ -175,7 +175,6 @@
+ @echo.
+ @echo Installation complete.
+ @echo.
+-pause
+ 
+-notepad SOS\Readme-SOS-WeiDU.txt
++
+ 

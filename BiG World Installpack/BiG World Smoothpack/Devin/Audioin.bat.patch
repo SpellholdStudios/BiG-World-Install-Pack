@@ -1,0 +1,8 @@
+--- Devin\VoiceActing\Audioin.bat	Wed Mar 17 19:39:51 2010
++++ C:\BWP Patchstudio\patched files\Devin\VoiceActing\Audioin.bat	Tue Jun 22 06:42:17 2010
+@@ -1,5 +1,4 @@
+ @echo off
+-pause
+ 
+ 
+ Devin\VoiceActing\oggdec.exe -w override\Akno@1.wav Devin\VoiceActing\Akno\Akno@1.ogg      

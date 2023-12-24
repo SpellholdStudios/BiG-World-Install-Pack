@@ -1,0 +1,17 @@
+--- Setup-BDToBv175.tp2	Fri Apr 29 17:25:13 2016
++++ C:\BWP Patchstudio\patched files\Setup-BDToBv175.tp2	Sun May 07 08:27:52 2017
+@@ -22030,7 +22030,7 @@
+ STRING_SET 74067 @12017
+ STRING_SET 74104 ~~ [25elm03]
+ 
+-AT_INTERACTIVE_EXIT ~BDToBv16-PostTaskE.bat~
++//AT_INTERACTIVE_EXIT ~BDToBv16-PostTaskE.bat~
+ //AT_EXIT ~VIEW BDash\language\english\"BP_WeiDU 1.2 Readme.txt"~
+ 
+ 
+@@ -40002,4 +40002,4 @@
+ COPY ~Bdash\Irenicus Soundfix~ ~override~
+ 
+ //AT_EXIT ~VIEW BDash\language\deutsch\LiesMich.htm~
+-AT_INTERACTIVE_EXIT ~BDToBv16-PostTaskG.bat~
++//AT_INTERACTIVE_EXIT ~BDToBv16-PostTaskG.bat~

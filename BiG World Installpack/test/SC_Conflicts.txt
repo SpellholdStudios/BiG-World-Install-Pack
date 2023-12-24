@@ -1,0 +1,31 @@
+BGT2DTDD
+
+CRylornNoKit 
+Raziel_Worgas 
+orig_Ascension 
+CDArnise
+CYoshFriend 
+CCoranBG2 
+CNoKkalid 
+CNoBDashImoen 
+CnoValygarRom 
+CnoREBohdi 
+FULLPLATE 
+SCS_AI
+SpellRev SpellPack 
+CnoSoBWeap CnoCDTWeap CnoAoEWeap CnoVicWeap CnoKP6Weap CnoLV1Weap 
+btweak_Restr 
+CSOBIWO 
+CMaGwithKit6 
+CNoHideKit 
+PP1GUI 
+BP_Encount 
+CNPCStrong 
+bg1npcbeg 
+MiH_EQ
+BuTcHeR
+CImoen4Ever
+SCSreplacement 
+DRSPHERE
+ShortWorgIntr
+skipPoFQIntr

@@ -1,0 +1,8 @@
+--- CtB\Chores\ChoresInstall.bat	Mon May 26 11:17:32 2008
++++ C:\BWP Patchstudio\patched files\CtB\Chores\ChoresInstall.bat	Thu Feb 19 12:25:53 2009
+@@ -191,5 +191,4 @@
+ @echo.
+ @echo Candlekeep Chores installation complete.
+ @echo.
+-pause
+ 

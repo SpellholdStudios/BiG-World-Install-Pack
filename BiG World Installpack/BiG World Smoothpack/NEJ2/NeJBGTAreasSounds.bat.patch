@@ -1,0 +1,8 @@
+--- NeJBGTAreasSounds.bat	Sun Apr 26 01:13:28 2015
++++ C:\BWP Patchstudio\patched files\NeJBGTAreasSounds.bat	Sat May 28 09:09:25 2016
+@@ -1143,4 +1143,3 @@
+ del CBooSpFa.ogg
+ del oggdec.exe
+ cd..
+-notepad NeJ-Readme.txt
+\ No newline at end of file

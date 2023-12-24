@@ -1,0 +1,9 @@
+--- BonsBruce\BonsBruceAudioInstall.bat	Sun Nov 14 22:44:04 2004
++++ C:\BWP Patchstudio\patched files\BonsBruce\BonsBruceAudioInstall.bat	Sun Oct 12 10:57:27 2008
+@@ -5,4 +5,4 @@
+ del subru*.ogg
+ del oggdec.exe
+ cd ..
+-notepad BonsBruce\BonsBruceReadme.txt
+\ No newline at end of file
++

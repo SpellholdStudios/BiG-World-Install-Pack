@@ -1,0 +1,9 @@
+--- WikaedeR\Setup-WikaedeRAudioInstall.bat	Sun Mar 16 16:06:00 2008
++++ C:\BWP Patchstudio\patched files\WikaedeR\Setup-WikaedeRAudioInstall.bat	Sun Oct 12 11:06:27 2008
+@@ -4,4 +4,5 @@
+ del MGWIK*.ogg
+ del oggdec.exe
+ cd..
+-explorer WikaedeR\WikaedeR-Readme.txt
++
++

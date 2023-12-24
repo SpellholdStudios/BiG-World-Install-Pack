@@ -1,0 +1,17 @@
+--- setup-planarspheremod.tp2	Sun May 01 17:34:17 2011
++++ C:\BWP Patchstudio\patched files\setup-planarspheremod.tp2	Wed Sep 12 00:01:56 2012
+@@ -29,10 +29,10 @@
+ 
+ COPY + ~Setup-PlanarSphereMod.exe~ ~WeiDU.exe~
+ 
+-COPY + ~chitin.key~ ~PlanarSphereMod/chitin.psm~
+-COPY_LARGE + ~dialog.tlk~ ~PlanarSphereMod/dialog.psm~
+-MKDIR ~PlanarSphereMod/over.bak~
+-COPY_LARGE + ~override~ ~PlanarSphereMod/over.bak~
++// COPY + ~chitin.key~ ~PlanarSphereMod/chitin.psm~
++// COPY_LARGE + ~dialog.tlk~ ~PlanarSphereMod/dialog.psm~
++// MKDIR ~PlanarSphereMod/over.bak~
++// COPY_LARGE + ~override~ ~PlanarSphereMod/over.bak~
+ 
+ 
+ // TOB Check prior to compiling.

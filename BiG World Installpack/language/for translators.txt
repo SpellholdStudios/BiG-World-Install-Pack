@@ -1,0 +1,1 @@
+Almost all text to translate is in the \language\English\strings.txt. But there is also some text in the files \language\English\pulse_bar.txt, \temp\general.txt and of course in the \language\English\BiG World Installpack.pdf

@@ -1,0 +1,123 @@
+traify read me
+
+ 
+
+
+
+ENGLISH
+
+
+
+If in a mod there are no tra files yet, these can easily be created.
+Please, don't translate any .d files but convert them into tra files before.
+Converting into tra files is really completely simple:
+
+1. Copy the traify.bat into your BGII - SoA directory.
+
+2. Copy the mod, which you want to translate, into the same directory
+
+3. Open the traify.bat with your text editor.
+
+Type in here the path, where the .d files are located. Replace in the line:
+for %%d in (####\###\*.d) do (
+the placeholder ####\### by modname\subfolder
+
+Replace in the line:
+WeiDU.exe --traify SETUP-#######.TP2 --out SETUP-#######.tra
+the placeholder SETUP-#######.TP2 by the name of the tp2 file. This may be SETUP-modname.TP2, modname.TP2 (without "SETUP") or modfile\SETUP-modname.TP2.
+
+If you want to keep the text of the strings behind the string number, use the term --traify-comment.
+
+Finally, note that --traify works for BAF files as well.
+
+4. Save and start your .bat file. After a brief pause, the tra files will be created. In the previous -d files there are now only string numbers (@0, @1, @2 etc) instead of the dialogues. Additionally you have now .tra files in the original language corresponding to the .d files, usually in English.
+
+5. Create a folder English (or French, Polish or whatever your source language will be) and copy all tra files into it.
+
+6. Also the dialogues in the TP2 file were replaced by string numbers. In the directory, where the TP2 file exists,  (either in the BG2 - SoA directory or in the mod file) is now the pertinent .tra file. Rename this into setup.tra and copy it to the other .tra files.
+
+7. Create a copy of the aforementioned folder and rename it into your language (French, Polish or whatever your language will be). Inside are the files to be translated.
+
+8. At least you must add the language files directory in the .tp2 file. Open the Setup-modname.tp2 in order to do so and add before the BEGIN: 
+
+
+AUTO_TRA ~Modfolder\%s~
+
+LANGUAGE ~English~
+         ~English~
+         ~Modfolder\English\Setup.tra~
+
+LANGUAGE ~Deutsch~
+         ~German~
+         ~Modfolder\German\Setup.tra~
+
+If there exist several language files in a subfolder, it must read:
+
+AUTO_TRA ~Modfolder\languages\%s~
+
+
+Finished! Now you can translate the .tra files from the new language folder as used.
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+
+
+DEUTSCH
+
+
+
+
+Falls in einem Mod noch keine tra-Dateien vorhanden sind, können diese leicht selbst erzeugt werden.
+Bitte übersetzt keine .d-Dateien, sondern wandelt sie zuvor in tra-Dateien um. 
+Das Umwandeln in tra-Dateien ist wirklich ganz einfach:
+
+
+1. Kopiert die traify.bat in Euer BGII - SvA Verzeichnis
+
+2. Kopiert den Mod, den Ihr übersetzen wollt, in das gleiche Verzeichnis
+
+3. Öffnet mit Euren Text-Editor die traify.bat
+
+Gebt hier den Pfad an, wo sich die .d-Dateien befinden. Ersetzt in der Zeile:
+for %%d in (####\###\*.d) do (
+den Platzhalter ####\### durch Modnamen\Unterordner
+
+Ersetzt in der Zeile:
+WeiDU.exe --traify SETUP-#######.TP2 --out SETUP-#######.tra
+den Platzhalter SETUP-#######.TP2 durch den Namen der tp2-Datei. Dies kann sein SETUP-Modname.TP2, Modname.TP2 (ohne "SETUP") oder Modordner\SETUP-Modname.TP2.
+
+Wenn Ihr den Text des Strings hinter der String-Nummer behalten wollt, verwendet den Begriff --traify-comment.
+
+
+Beachtet schließlich noch, dass --traify für BAF-Dateien genauso funktioniert.
+
+4. Speichert und startet Eure .bat-Datei. Nach einer kurzen Pause werden die tra-Dateien erstellt. In den bisherigen .d-Dateien stehen jetzt anstelle der Dialoge nur noch String-Nummern (@0, @1, @2 usw). Zusätzlich habt Ihr jetzt die zu den .d-Dateien passenden .tra-Dateien in der ursprünglichen Sprache, meist in Englisch.
+
+5. Erstellt einen Ordner English (oder French, Polish oder was immer Eure Ausgangssprache war) und kopiert dort alle .tra-Dateien hinein.
+
+6. Auch die Dialoge der TP2-Datei wurden durch String-Nummern ersetzt. In dem VerZeichnis, in dem sich die TP2-Datei befindert (entweder im BG2 - SvA Ordner oder im Mod-Ordner) befindet sich nun auch die dazugehörige .tra-Datei. Benennt diese um in setup.tra und kopiert sie zu den anderen .tra-Dateien.
+
+7. Erstellt eine Kopie des vorgenannten Ordners und benennt ihn um in German. Darin sind dann die Dateien, die Ihr übersetzt.
+
+8. Zuletzt müsst Ihr in der tp2 noch das Sprachverzeichnis anlegen. Öffnet dazu die  Setup-Modname.tp2 und fügt folgendes vor dem BEGIN ein:
+
+AUTO_TRA ~Modordner\%s~
+
+LANGUAGE ~English~
+         ~English~
+         ~Modordner\English\Setup.tra~
+
+LANGUAGE ~Deutsch~
+         ~German~
+         ~Modordner\German\Setup.tra~
+
+Wenn mehrere Sprachordner in einem weiteren Unterordner liegen, muss es heißen:
+
+AUTO_TRA ~Modordner\languages\%s~
+
+
+Fertig! Jetzt könnt Ihr Eure Übersetzung der tra-Dateien aus dem Ordner German wie gewohnt vornehmen.

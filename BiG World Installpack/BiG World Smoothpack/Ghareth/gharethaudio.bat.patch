@@ -1,0 +1,9 @@
+--- Ghareth\gharethaudio.bat	Sun Feb 15 18:10:50 2004
++++ C:\BWP Patchstudio\patched files\Ghareth\gharethaudio.bat	Sun Oct 12 11:00:02 2008
+@@ -4,5 +4,5 @@
+ del FW*.ogg
+ del oggdec.exe
+ cd ..
+-notepad ghareth\gharethReadme.txt
++
+ 

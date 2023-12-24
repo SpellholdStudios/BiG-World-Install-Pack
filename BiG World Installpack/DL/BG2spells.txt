@@ -1,0 +1,20 @@
+IWDification
+https://www.gibberlings3.net/files/file/948-iwdification/?do=download&r=5964
+
+Lost Crossroads Spell Pack for BG2
+http://galactygon.blackwyrmlair.net/SpellPack/SpellPackB6.exe
+
+Spell Revisions
+https://github.com/Gibberlings3/SpellRevisions/releases/download/v4b18/spell_rev-v4-beta18.exe
+
+SR Revised
+https://github.com/BartyMae/SR_Revised/archive/refs/heads/master.zip
+
+Spell-50
+http://www.kovarex.com/download/baldur/Spell50-v12.7z
+
+Teleport Spell
+http://dh.blackwyrmlair.net/mods_download.php?mod=274&bws=1
+
+Wild Mage Additions
+https://github.com/BGforgeNet/bg2-wildmage/releases/download/v2.2/wild-mage-additions-v2.2.zip

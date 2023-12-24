@@ -1,0 +1,2 @@
+Faerûn	Faerun	Farûn    Faêrun
+.~	\.\s*\~

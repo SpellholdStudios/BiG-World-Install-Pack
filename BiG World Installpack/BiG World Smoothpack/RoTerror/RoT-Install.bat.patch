@@ -1,0 +1,15 @@
+--- RoTerror\RoT-Install.bat	Sat May 26 13:31:50 2007
++++ C:\BWP Patchstudio\patched files\RoTerror\RoT-Install.bat	Sun Oct 12 14:22:18 2008
+@@ -261,9 +261,10 @@
+ @echo.
+ @echo Installation complete.
+ @echo.
+-pause
+ 
+-notepad RoTerror\Readme.txt
++
++
++
+ 
+ 
+ 

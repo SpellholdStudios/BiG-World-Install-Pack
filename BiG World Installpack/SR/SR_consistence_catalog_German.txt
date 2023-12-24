@@ -1,0 +1,43 @@
+Athkatla	Atkatla
+Baldurs Tor	Baldur's Tor	Baldur's Gate
+Calimshafen	Calimhafen	Calimport
+Faerûn	Faerun	Farûn    Faêrun	Farun
+Nashkel	Nashkell
+Schwertküste	Schwert Küste
+Bruenor Schlachtenhammer	Bruenor Heldenhammer
+Irenicus	Irenikus
+Minsk	!(^\[)Minsc
+.~	\.\s*\~
+?	 \?
+EIGENSCHAFTEN	SPEZIFISCHE EIGENSCHAFTEN
+Initiativefaktor	Initiativfaktor
+beidhändig	2-händig
+einhändig	1-händig
+1W1 +	1W1\s*\+\s*	1d1\s*\+\s*
+1W2 +	1W2\s*\+\s*	1d2\s*\+\s*
+1W3 +	1W3\s*\+\s*	1d3\s*\+\s*
+1W4 +	1W4\s*\+\s*	1d4\s*\+\s*
+1W5 +	1W5\s*\+\s*	1d5\s*\+\s*
+1W6 +	1W6\s*\+\s*	1d6\s*\+\s*
+1W7 +	1W7\s*\+\s*	1d7\s*\+\s*
+1W8 +	1W8\s*\+\s*	1d8\s*\+\s*
+1W9 +	1W9\s*\+\s*	1d9\s*\+\s*
+1W10 +	1W10\s*\+\s*	1d10\s*\+\s*
+1W12 +	1W12\s*\+\s*	1d12\s*\+\s*
+Agannazars Flamme	Agannazars Hexerei
+Blauer Feuerschild	Feuerschild: Blau	Feuerschild (Blau)
+Roter Feuerschild	Feuerschild: Rot	Feuerschild (Rot)
+Schriftrolle	Schriftformel
+Schutzformel	Schutzrolle
+Grottenschrat	Schreckgespenst
+Hasardeur	Wilder Magier
+Verlies	Dungeon
+fürs Erste	für's Erste	fürs erste	für's erste
+imstande	im Stande
+tut mir leid	tut mir Leid
+dass	daß
+schließt	schliesst
+berührt	berüht
+Ich verstehe.	Ich sehe.
+Ihr seid zurück.	Hallo wieder.
+Schön, dass Ihr wieder da seid.	Willkommen zurück.
